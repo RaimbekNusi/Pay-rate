@@ -1,5 +1,3 @@
-"Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long"
-"Question 4"
 n_games = int(input("Enter the number of games played: "))
 time_per_game = float(input("Enter the average length of a game (in minutes): "))
 tips = float(input("Enter the amount of tips you received: "))
